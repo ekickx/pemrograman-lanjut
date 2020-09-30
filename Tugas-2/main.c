@@ -1,3 +1,9 @@
+/*
+Owner   : Ghani Rafif (ghani@ekickx.codes)
+Repo    : https://github.com/ekickx/pemrograman-lanjut/tree/master/Tugas-2
+License : This code is licensied under MIT LICENSE
+*/
+
 #include <stdio.h>
 #include <string.h>
 
